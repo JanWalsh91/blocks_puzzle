@@ -5,7 +5,7 @@
 
 ##### Instructions: 
 
-- 
+- Use 1, 2 and 3 to switch between characters.
 - Move around with arrow keys. Use space to jump.
 - Move all the blocks to their end boxes!
 
