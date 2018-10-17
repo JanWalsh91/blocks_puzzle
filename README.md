@@ -22,3 +22,9 @@ Open doors for allies!
 Avoid traps!
 
 <img src="https://github.com/JanWalsh91/blocks_puzzle/blob/master/media/GIF%204.gif" alt="drawing" width="400"/>
+
+See more unity projects:
+
+- [Tower Defense](https://github.com/JanWalsh91/tower_defense)
+- [3D Golf Simulator](https://github.com/JanWalsh91/golf_simulator)
+- [Infiltration](https://github.com/JanWalsh91/inflitration)
